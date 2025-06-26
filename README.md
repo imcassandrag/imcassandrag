@@ -13,6 +13,7 @@
 
 # GitHub Stats:
 ![imcassandrag's Stats](https://github-readme-stats.vercel.app/api?username=imcassandrag&theme=outrun&show_icons=true&hide_border=true&count_private=true) <br />
+![imcassandrag's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imcassandrag&theme=outrun&hide_border=true) <br />
 ![imcassandrag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imcassandrag&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
